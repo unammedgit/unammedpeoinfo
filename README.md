@@ -1,4 +1,4 @@
-# unammedpeoinfo
+# unnamedpeoinfo
 Questo tool consente di generare due google dorks attravero i campi inseriti dall'utente. 
 
 # Tool per Generazione Google Dorks
